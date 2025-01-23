@@ -1,0 +1,36 @@
+
+
+body{
+
+    background-color: rgb(97, 165, 230);
+
+}
+
+input[type=submit]{
+    background-color: #ffffff;
+}
+legend{
+    color: white;
+}
+h2{
+    text-align: center;
+    color: white;
+
+}
+input[type=text]{
+    background-color: peachpuff;
+}
+#contact a{
+    text-decoration: none;
+    color: #ffffff;
+    margin: 10px 0px 0px 1100px;
+    
+}
+#subject{
+    background-color: hotpink;
+}
+#contact a:hover{
+    background-color: wheat;
+    color: black;
+}
+
