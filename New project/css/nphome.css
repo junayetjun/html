@@ -1,8 +1,6 @@
-body{
-    
-}
+
 div{
-    margin: 200px 0px 0px 100px;
+    margin: 150px 0px 0px 100px;
     line-height: 20px;
     font-size: 50px;
     background: linear-gradient(to left,violet,
@@ -16,4 +14,8 @@ div{
     text-decoration: none;
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
+  }
+  input{
+    background-color:  rgb(204, 117, 166);
+    color: white ;
   }
