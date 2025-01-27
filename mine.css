@@ -47,3 +47,35 @@
     background: #55ACEE;
     color: white;
   }
+  #seconddiv{
+    width: 100%;
+    height: 10vh;
+    background-color: rgb(201, 121, 181);
+  }
+  #supper{
+    width: 40%;
+    height: 10vh;
+    /* background-color: aliceblue; */
+    float: left;
+    display: block;
+  }
+  #supper p{
+    font-size: 30px;
+    margin: 10px 0px 0px 150px;
+  }
+  #slower{
+    width: 60%;
+    height: 10vh;
+    float: right;
+  }
+  #slower ul li{
+    list-style: none;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+  }
+  input{
+    margin-left: 20px;
+    margin-top: 20px;
+  }
